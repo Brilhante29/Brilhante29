@@ -1,10 +1,7 @@
 <div align="center">
-
-<!-- Animated typing header -->
 <a href="https://github.com/Brilhante29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Zup+(It%C3%A1u+Group);AI+Research+%E2%80%93+Computer+Vision+%26+GenAI;Published+in+IEEE+%2F+Springer;Research+to+Production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Zup+(Ita%C3%BA+Group);AI+Research+%3A+Computer+Vision+%26+GenAI;Published+in+IEEE+%2F+Springer;Research+to+Production." alt="Typing SVG" />
 </a>
-
 </div>
 
 <p align="center">
@@ -18,10 +15,10 @@
 
 ### About
 
-I build systems that take AI research into production. My work sits at the intersection of two tracks I've followed in parallel since early on:
+I build systems that take AI research into production. My work sits at the intersection of two tracks I have followed in parallel since early on:
 
-- **Applied AI research** — computer vision and GenAI, peer-reviewed in IEEE and Springer (stroke detection from wearable signals at 99% accuracy, medical image analysis, license plate recognition)
-- **Scalable backend engineering** — microservices and distributed systems in production, currently at Zup (Itaú Group)
+- **Applied AI research**: computer vision and GenAI, peer reviewed in IEEE and Springer (stroke detection from wearable signals at 99% accuracy, medical image analysis, license plate recognition)
+- **Scalable backend engineering**: microservices and distributed systems in production, currently at Zup (Itaú Group)
 
 I care less about a headline accuracy number and more about what it takes to make a model survive real data: noise, latency, cost, and monitoring.
 
@@ -32,9 +29,9 @@ I care less about a headline accuracy number and more about what it takes to mak
 | Paper | Venue | Focus |
 |---|---|---|
 | Stroke detection via wearable signal | IEEE | Computer Vision, healthcare |
-| Skin lesion / melanoma classification | IEEE | Computer Vision, healthcare |
-| Mercosur license plate recognition (ALPR) | Springer | Computer Vision, real-world systems |
-| *+ additional peer-reviewed work* | LISIA Research Group | Applied ML methodology |
+| Skin lesion and melanoma classification | IEEE | Computer Vision, healthcare |
+| Mercosur license plate recognition (ALPR) | Springer | Computer Vision, real world systems |
+| Additional peer reviewed work | LISIA Research Group | Applied ML methodology |
 
 ---
 
@@ -47,20 +44,28 @@ I care less about a headline accuracy number and more about what it takes to mak
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,fastapi,kafka,postgres,redis,kubernetes,grafana&theme=dark" />
 </p>
 
-**Backend & architecture:** Java/Spring · Go · Node · Python · microservices · gRPC/GraphQL · Kafka · AWS
+**Backend and architecture:** Java/Spring · Go · Node · Python · microservices · gRPC/GraphQL · Kafka · AWS
 **AI/ML:** Computer Vision · Deep Learning · GenAI · LLMs/RAG · MLOps (MLflow, FastAPI)
-**Data & infra:** Databricks · Docker · Terraform · ELK
+**Data and infra:** Databricks · Docker · Terraform · ELK
 
 ---
 
-### Featured work
+### Currently building
 
-> *(pin these once each repo has a real README + benchmark — see the harness)*
+> Roadmap of focused, Dockerized projects, each with a real README and a benchmark. Pinned as they ship.
 
-- 🔬 **yolo-training-pipeline** — computer vision training + inference benchmark, Dockerized
-- 🤖 **llm-eval-harness** — reproducible evaluation suite for RAG/LLM pipelines
-- ☁️ **mini-aws-emulator** — lightweight local emulator for core AWS services (Go)
-- 🏗️ **spring-hexagonal-payments** — hexagonal architecture reference implementation
+- 🔬 **yolo-training-pipeline**: computer vision training and inference benchmark, Dockerized
+- 🤖 **llm-eval-harness**: reproducible evaluation suite for RAG and LLM pipelines
+- ☁️ **mini-aws-emulator**: lightweight local emulator for core AWS services (Go)
+- 🏗️ **spring-hexagonal-payments**: hexagonal architecture reference implementation
+
+---
+
+### Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brilhante29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ---
 
@@ -70,11 +75,9 @@ I care less about a headline accuracy number and more about what it takes to mak
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brilhante29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brilhante29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brilhante29&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brilhante29&theme=tokyo-night&hide_border=true" />
 </p>
@@ -82,5 +85,5 @@ I care less about a headline accuracy number and more about what it takes to mak
 ---
 
 <p align="center">
-  <em>If you work on applied AI or on the systems that put it in production, I'm always glad to exchange ideas.</em>
+  <em>If you work on applied AI or on the systems that put it in production, I am always glad to exchange ideas.</em>
 </p>
