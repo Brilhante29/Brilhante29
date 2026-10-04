@@ -16,13 +16,13 @@ I am a Software Engineer at **Zup Innovation (Itaú Group)**, based in Fortaleza
 
 | Project | What it demonstrates |
 |---|---|
-| [kiri-gcp](https://github.com/Brilhante29/kiri-gcp) | Single-binary Google Cloud emulator: 108 services on one local endpoint with a published fidelity map, Cloud Storage verified end to end with the official Go, Python, and Node.js clients, a cost surface, and signed releases with SBOMs and SLSA provenance. |
-| [End-to-End MLOps Pipeline](https://github.com/Brilhante29/mlops-end2end) | Airflow, MLflow registry, quality-gated promotion, and FastAPI serving: validated data to a served model in 58.7 s, ROC AUC 0.928. |
-| [Hexagonal Payments](https://github.com/Brilhante29/spring-hexagonal-payments) | Kotlin/Spring Boot payments with database-enforced idempotency, hexagonal boundaries, 95.65% core coverage, and k6 evidence. |
 | [Transactional Outbox](https://github.com/Brilhante29/outbox-pattern) | Zero lost events across forced JVM crashes and broker outages, with deduplicated at-least-once delivery. |
+| [Hexagonal Payments](https://github.com/Brilhante29/spring-hexagonal-payments) | Kotlin/Spring Boot payments with database-enforced idempotency, hexagonal boundaries, 95.65% core coverage, and k6 evidence. |
+| [End-to-End MLOps Pipeline](https://github.com/Brilhante29/mlops-end2end) | Airflow, MLflow registry, quality-gated promotion, and FastAPI serving: validated data to a served model in 58.7 s, ROC AUC 0.928. |
+| [FireCast](https://github.com/Brilhante29/queimadas-v3) | Glass-box monthly wildfire forecasting per municipality from INPE data: walk-forward WAPE 0.643 against 0.791 for the climatology baseline, leakage controls, exact explanations, and a fail-closed API. |
 | [Kafka Streams Enrichment](https://github.com/Brilhante29/kafka-streams-demo) | Kotlin stream-table join and aggregation proven against a real Kafka 4.3 broker with `exactly_once_v2`. |
-| [Stroke CT Segmentation Benchmark](https://github.com/Brilhante29/stroke-signal-demo) | Public, leakage-safe companion to my IJCNN 2023 paper: patient-level splits and immutable Docker evidence. |
-| [FireCast](https://github.com/Brilhante29/queimadas-v3) | Glass-box monthly wildfire forecasting with leakage controls, exact XAI, fail-closed API behavior, and production artifacts. |
+| [kiri-gcp](https://github.com/Brilhante29/kiri-gcp) | Single-binary Google Cloud emulator: 108 services on one local endpoint with a published fidelity map, Cloud Storage verified end to end with the official Go, Python, and Node.js clients, a cost surface, and signed releases with SBOMs and SLSA provenance. |
+| [Stroke CT Segmentation Benchmark](https://github.com/Brilhante29/stroke-signal-demo) | Leakage-safe evaluation companion to my IJCNN 2023 paper: patient-level splits on synthetic CT phantoms, because the clinical data cannot be redistributed, with immutable Docker evidence. |
 
 ## Portfolio map
 
