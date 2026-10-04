@@ -16,7 +16,7 @@ I am a Software Engineer at **Zup Innovation (Itaú Group)**, based in Fortaleza
 
 | Project | What it demonstrates |
 |---|---|
-| [kiri-gcp](https://github.com/Brilhante29/kiri-gcp) | Single-binary emulator for 108 Google Cloud services on one local endpoint (REST, plus gRPC for Pub/Sub and Firestore), with signed releases, SBOMs, SLSA provenance, and a cost surface. |
+| [kiri-gcp](https://github.com/Brilhante29/kiri-gcp) | Single-binary Google Cloud emulator: 108 services on one local endpoint with a published fidelity map, Cloud Storage verified end to end with the official Go, Python, and Node.js clients, a cost surface, and signed releases with SBOMs and SLSA provenance. |
 | [End-to-End MLOps Pipeline](https://github.com/Brilhante29/mlops-end2end) | Airflow, MLflow registry, quality-gated promotion, and FastAPI serving: validated data to a served model in 58.7 s, ROC AUC 0.928. |
 | [Hexagonal Payments](https://github.com/Brilhante29/spring-hexagonal-payments) | Kotlin/Spring Boot payments with database-enforced idempotency, hexagonal boundaries, 95.65% core coverage, and k6 evidence. |
 | [Transactional Outbox](https://github.com/Brilhante29/outbox-pattern) | Zero lost events across forced JVM crashes and broker outages, with deduplicated at-least-once delivery. |
