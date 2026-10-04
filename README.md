@@ -90,7 +90,7 @@ Specification first, then code, then evidence. Architecture, stack, and rejected
 | 2024 | [Health of Things Melanoma Detection System—detection and segmentation of melanoma in dermoscopic images applied to edge computing using deep learning and fine-tuning models](https://doi.org/10.3389/frcmn.2024.1376191) | Frontiers in Communications and Networks |
 | 2024 | [Wearable Stroke Alert System—New Health of Things Approach Based on Generative AI and Datafusion for Real-Time Stroke Monitoring](https://doi.org/10.1109/SBESC65055.2024.10771817) | IEEE SBESC |
 | 2023 | [Divisible Cell-Segmentation: A New Approach for Stroke Detection and Segmentation in CT Scans Using Deep Learning and Fine-tuning](https://doi.org/10.1109/IJCNN54540.2023.10191320) | IEEE IJCNN |
-| 2023 | [New Approach in LPR Systems Using Deep Learning to Classify Mercosur License Plates with Perspective Adjustment](https://doi.org/10.1007/978-3-031-35507-3_4) | Springer, ISDA |
+| 2023 | [New Approach in LPR Systems Using Deep Learning to Classify Mercosur License Plates with Perspective Adjustment](https://doi.org/10.1007/978-3-031-35507-3_4) | Springer, ISDA 2022 proceedings |
 
 **Primary stack:** Java · Kotlin · Spring Boot · Go · Python · FastAPI · AWS · Docker · Kafka · PostgreSQL · MLflow · Airflow · Prometheus
 
